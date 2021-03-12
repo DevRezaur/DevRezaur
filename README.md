@@ -1,4 +1,6 @@
-### Hi 👋... I'm Rezaur (Full Stack Software Engineer)
+### Hello Coders, I'm Rezaur 👋
+
+##### Full Stack Software Engineer, Programming Trainer, Content Creator
 
 ---
 
@@ -7,4 +9,4 @@
 - 👯 I’m looking to collaborate on Spring Boot projects
 - 💬 Ask me about Java Spring & React
 - 📫 Reach me via [Twitter](https://twitter.com/DevRezaur)
-- ⚡ Fun fact: I abosluotely love Java
+- ⚡ Fun fact: I absolutely love Java
