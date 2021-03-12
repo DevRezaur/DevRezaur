@@ -11,11 +11,13 @@
 - 🔭 Currently working on React & Spring Boot stack
 - 🌱 Currently learning React and Typescript
 - 🎯 2021 tech resolution: Spring Cloud, Micro-services, Docker, AWS
-- 👯 I’m looking to collaborate on Spring Boot projects
+- 🕵️‍♂️ I’m looking to collaborate on Spring Boot projects
 - 💬 Ask me about Java Spring & React
 - 📫 Reach me via [Twitter](https://twitter.com/DevRezaur)
 - 💻 Favourite linux distro: Manjaro
 - 😄 Fun fact: I absolutely love Java
+
+<br />
 
 ---
 
