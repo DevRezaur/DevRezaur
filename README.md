@@ -25,6 +25,11 @@
 
 <img aligh="right" alt="DevRezaur's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevRezaur&show_icons=true&theme=radical" />
 
+<br />
+
 ---
 
-#### 😄😄😄 Personal Portfolio: [DevRezaur.com](http://devrezaur.com)
+<br />
+
+#### :technologist: Personal Portfolio: [DevRezaur.com](http://devrezaur.com)
+#### :smiley: :thought_balloon: [blog.devrezaur.com](http://blog.devrezaur.com)
