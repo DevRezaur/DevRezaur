@@ -49,7 +49,7 @@
 </div>
 
 <div align="left">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevRezaur&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" alt="Rezaur Rahman's Github Stats" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevRezaur&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Rezaur Rahman's Github Stats" />
 </div>
 
 <div align="left">
@@ -58,6 +58,6 @@
 
 <div align="left">
 
-![Rezaur Rahman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRezaur&custom_title=Rezaur%20Rahman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&height=250)
+![Rezaur Rahman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRezaur&custom_title=Rezaur%20Rahman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </div>
