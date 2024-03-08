@@ -45,24 +45,15 @@
 <hr/>
 
 <div align="left">
-    <a href="https://github.com/DevRezaur">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRezaur&theme=radical&border=7F3FBF&background=0D1117" alt="Rezaur Rahman's GitHub Streak" />
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevRezaur&theme=radical&border=7F3FBF&background=0D1117" alt="Rezaur Rahman's GitHub Streak" />
 </div>
 
 <div align="left">
-    <a href="https://github.com/DevRezaur">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRezaur&theme=radical" alt="Rezaur Rahman's GitHub Contribution" />
-    </a>
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevRezaur&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" alt="Rezaur Rahman's Github Stats" />
 </div>
 
 <div align="left">
-    <a href="https://github.com/DevRezaur">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DevRezaur&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" alt="Rezaur Rahman's Github Stats" />
-    </a>
-    <a href="https://github.com/DevRezaur">
-        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DevRezaur&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" alt="Rezaur Rahman's Top Languages" />
-    </a>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRezaur&theme=radical" alt="Rezaur Rahman's GitHub Contribution" />
 </div>
 
 <div align="left">
