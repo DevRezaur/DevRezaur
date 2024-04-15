@@ -3,7 +3,7 @@
 <p align="center">Full Stack Engineer | Java Specialist | Mentor</p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=6%2B%20Years%20Experience%20In%20Java;Have%20Worked%20With%20Global%20Clients;Specialized%20In%20Microservice%20Architecture&center=true&width=500&height=45" alt="Rezaur Rahman's Expertise" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=3.5%2B%20Years%20Experience%20In%20Java;Have%20Worked%20With%20Global%20Clients;Specialized%20In%20Microservice%20Architecture&center=true&width=500&height=45" alt="Rezaur Rahman's Expertise" />
 </div>
 
 <hr />
