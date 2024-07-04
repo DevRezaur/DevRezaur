@@ -1,6 +1,6 @@
 <h2 align="center">Hello, I'm <b><a href="https://devrezaur.com" target="_blank">Rezaur Rahman</a></b></h2>
 
-<p align="center">Full Stack Engineer | Java Specialist | Mentor</p>
+<p align="center">Senior Software Engineer | Java Enthusiast | Technical Trainer</p>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=3.5%2B%20Years%20Experience%20In%20Java;Have%20Worked%20With%20Global%20Clients;Specialized%20In%20Microservice%20Architecture&center=true&width=500&height=45" alt="Rezaur Rahman's Expertise" />
