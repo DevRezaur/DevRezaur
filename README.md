@@ -1,10 +1,6 @@
 <h2 align="center">Hello, I'm <b><a href="https://devrezaur.com" target="_blank">Rezaur Rahman</a></b></h2>
 
-<p align="center">Senior Software Engineer | Java Enthusiast | Technical Trainer</p>
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=3.5%2B%20Years%20Experience%20In%20Java;Have%20Worked%20With%20Global%20Clients;Specialized%20In%20Microservice%20Architecture&center=true&width=500&height=45" alt="Rezaur Rahman's Expertise" />
-</div>
+<p align="center">Senior Software Engineer | Java Specialist | Microservices & Distributed Systems</p>
 
 <hr />
 
@@ -25,23 +21,6 @@
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 
-## Top Open Source Projects
-
-<div align="left">
-
-[![e-learning-platform-spring-boot-backend](https://github-readme-stats.vercel.app/api/pin/?username=DevRezaur&repo=e-learning-platform-spring-boot-backend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevRezaur/e-learning-platform-spring-boot-backend)
-[![e-learning-platform-angular-frontend](https://github-readme-stats.vercel.app/api/pin/?username=DevRezaur&repo=e-learning-platform-angular-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevRezaur/e-learning-platform-angular-frontend)
-[![poke-wiki](https://github-readme-stats.vercel.app/api/pin/?username=DevRezaur&repo=poke-wiki&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevRezaur/poke-wiki)
-[![spring-security-JWT-module](https://github-readme-stats.vercel.app/api/pin/?username=DevRezaur&repo=spring-security-JWT-module&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DevRezaur/spring-security-JWT-module)
-
-</div>
-
-<div align="left">
-    <a href="https://github.com/DevRezaur?tab=repositories" target="_blank">
-        <img title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" alt="All Repositories" />
-    </a>
-</div>
-
 <hr/>
 
 <div align="left">
@@ -54,10 +33,4 @@
 
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevRezaur&theme=radical" alt="Rezaur Rahman's GitHub Contribution" />
-</div>
-
-<div align="left">
-
-![Rezaur Rahman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevRezaur&custom_title=Rezaur%20Rahman's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 </div>
